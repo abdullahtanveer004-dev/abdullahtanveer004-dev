@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Abdullah 👋
 
-<!--
-**abdullahtanveer004-dev/abdullahtanveer004-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc IT student focused on **Networking & Cybersecurity**.
 
-Here are some ideas to get you started:
+## 🔧 What I'm learning
+- Networking (Cisco Networking Academy)
+- Cisco Packet Tracer labs
+- Linux basics
+- Python scripting
+- TryHackMe (defensive security)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 My projects
+- **packet-tracer-labs**: network labs with topologies and configs
+- **python-security-scripts**: small Python tools for learning
+- **tryhackme-writeups**: notes on what I learn in each room
+
+## 🎯 Goals
+Earn CCNA and Security+, and work as a network or security analyst.
+
+## 📫 Connect
+- LinkedIn: [paste your LinkedIn link]
+
